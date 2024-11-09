@@ -1,6 +1,9 @@
 # AI-Powered Healthcare Diagnosis Assistant
 
+## Query
 ![Query Example](Images/query.png)
+
+## Response
 ![Response Example](Images/response.png)
 
 ## Overview
